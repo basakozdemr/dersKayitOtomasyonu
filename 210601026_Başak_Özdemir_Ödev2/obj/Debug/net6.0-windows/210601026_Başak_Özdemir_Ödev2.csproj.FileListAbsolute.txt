@@ -1,0 +1,48 @@
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.exe
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.deps.json
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.runtimeconfig.json
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.pdb
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.frm_menu.resources
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.frm_TranskriptGoster.resources
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.AssemblyInfo.cs
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\refint\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.pdb
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.genruntimeconfig.cache
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\ref\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.CopyComplete
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_YeniBilgiler.resources
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_KayitEkle.resources
+C:\Users\HP\Desktop\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_KayitIslem.resources
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.exe
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.deps.json
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.runtimeconfig.json
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.pdb
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_menu.resources
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_KayitEkle.resources
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_KayitIslem.resources
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.frm_TranskriptGoster.resources
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\_210601026_Başak_Özdemir_Ödev2.Frm_YeniBilgiler.resources
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.AssemblyInfo.cs
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.csproj.CopyComplete
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\refint\210601026_Başak_Özdemir_Ödev2.dll
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.pdb
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\210601026_Başak_Özdemir_Ödev2.genruntimeconfig.cache
+C:\Users\HP\Desktop\2.1\veri tabanı\210601026_Başak_Özdemir_Ödev2\210601026_Başak_Özdemir_Ödev2\obj\Debug\net6.0-windows\ref\210601026_Başak_Özdemir_Ödev2.dll
